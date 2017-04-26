@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">commonlibs</string>
+    <string name="checknetstate">网络未连接</string>
+    <string name="sure" >确定</string>
+    <string name="netstateisnotgood">网络状态不佳，请检查网络</string>
+</resources>
